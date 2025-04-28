@@ -17,7 +17,7 @@ O objetivo deste teste é praticar o desenvolvimento de uma aplicação Java Web
 3. Faça o deploy da aplicação no servidor.
 4. Acesse a servlet pelo navegador, exemplo:
 
-http://localhost:8080/nome-do-projeto/nome-da-servlet
+(http://localhost:8080/ExemploServlets/MinhaPrimeiraServlet)
 
 ## ✍️ Autor
 - Cauã 
